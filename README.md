@@ -1,4 +1,4 @@
-# 拾领星球 - 校园失物招领平台
+# 拾领星球 - 校园失物招领平台(claude code 全栈实验项目)
 
 ## 项目简介
 
@@ -292,14 +292,5 @@ npm run build
 - [ ] 增加数据统计图表
 - [ ] 支持多语言
 
-## 贡献指南
 
-欢迎提交 Issue 和 Pull Request！
-
-## 许可证
-
-MIT License
-
-## 联系方式
-
-如有问题，请联系：pickup-planet@example.com
+如有问题，请联系：1584748476@qq.com
